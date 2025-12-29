@@ -84,8 +84,6 @@ params:
           url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=de&user=-anR9ZAAAAAJ&view_op=list_works&gmla=AElLoL0h-hoWKUffrdX1VH85rMwKIuLAZRzKzE08GHANpzb3wnyQFXOXFbLm3DYFKS6XKJpoIK7nXUufu9H7FWA0R1MAr8VPl1sJSXQeOf0
         - name: GitHub
