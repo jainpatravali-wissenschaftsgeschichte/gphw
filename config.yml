@@ -55,10 +55,10 @@ params:
     profileMode:
           enabled: true
           title: Kumarmangalam Jain Patravali
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          subtitle: "I have studied History and Philosophy of Science at the University of Frankfurt, Germany. My research focuses on the Physics of the 20th century and history of Mathematics. I have studied under Professor Dr. Moritz Epple and Prof. Dr. Annette Warner from the AG-Wissenschaftsgeschichte at Uni Frankfurt."
+          imageUrl: "picture.png"
+          imageWidth: 350
+          imageHeight: 300
           buttons:
             - name: Papers
               url: papers/
