@@ -54,7 +54,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
+          title: Kumarmangalam Jain Patravali
           subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
           imageUrl: "picture.jpeg"
           imageWidth: 160
@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:kumarmangalampatravali@gmail.com
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -87,17 +87,17 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?hl=de&user=-anR9ZAAAAAJ&view_op=list_works&gmla=AElLoL0h-hoWKUffrdX1VH85rMwKIuLAZRzKzE08GHANpzb3wnyQFXOXFbLm3DYFKS6XKJpoIK7nXUufu9H7FWA0R1MAr8VPl1sJSXQeOf0
         - name: GitHub
           url: https://github.com/pmichaillat
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/@ThinklikeThales-pd7sq
         - name: Twitter
           url: https://x.com/pmichaillat
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/nanospitogatos.bsky.social
 
     assets:
         disableScrollBarStyle: true
